@@ -9,10 +9,9 @@ namespace DHGenerator;
  * (at your option) any later version.
  * 
  * @package     DH Generator
- * @copyright   2019 Podvirnyy Nikita (KRypt0n_)
+ * @copyright   2019 - 2020 Podvirnyy Nikita (Observer KRypt0n_)
  * @license     GNU GPLv3 <https://www.gnu.org/licenses/gpl-3.0.html>
- * @license     Enfesto Studio Group license <https://vk.com/topic-113350174_36400959>
- * @author      Podvirnyy Nikita (KRypt0n_)
+ * @author      Podvirnyy Nikita (Observer KRypt0n_)
  * 
  * Contacts:
  *
@@ -21,6 +20,7 @@ namespace DHGenerator;
  *        vk.com/hphp_convertation
  * 
  */
+
 class Generator
 {
     public $g;
